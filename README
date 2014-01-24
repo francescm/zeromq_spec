@@ -1,0 +1,8 @@
+= zeromq_spec =
+
+Just a scaffhold how to spec a ruby project involving ffi-rzmq
+
+= setup and trial =
+
+bundle install --path vendor/bundle
+bundle exec rake spec
